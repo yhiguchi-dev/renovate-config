@@ -16,7 +16,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/yhiguchi-dev"
   },
-  "author": "",
+  "author": "Yuki Higuchi <yuki@yhiguchi.dev>",
   "license": "MIT",
   "devDependencies": {
     "renovate": "35.47.2"
