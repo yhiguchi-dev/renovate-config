@@ -13,9 +13,6 @@
   "scripts": {
     "test": "renovate-config-validator"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/yhiguchi-dev"
-  },
   "author": "Yuki Higuchi <yuki@yhiguchi.dev>",
   "license": "MIT",
   "devDependencies": {
