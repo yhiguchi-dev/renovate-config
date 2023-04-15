@@ -5,9 +5,9 @@
   "renovate-config": {
     "default": {
       "extends": [
-        "config:base",
-        "semanticCommits"
-      ]
+        "config:base"
+      ],
+      "semanticCommits": "enabled"
     }
   },
   "scripts": {
